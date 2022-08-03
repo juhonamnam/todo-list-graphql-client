@@ -1,0 +1,28 @@
+{
+  "name": "todo-list-graphql-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.6.9",
+    "bootstrap": "^5.1.3",
+    "graphql": "^16.5.0",
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "sharp": "^0.30.4"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.25",
+    "@types/react": "18.0.6",
+    "@types/react-dom": "18.0.2",
+    "eslint": "8.13.0",
+    "eslint-config-next": "12.1.5",
+    "typescript": "4.6.3"
+  }
+}
